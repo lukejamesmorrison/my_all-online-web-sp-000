@@ -4,7 +4,8 @@ def my_all?(collection)
 
   i = 0
   
-  while i < collection.length
+  while i < collection.length do
+  
     i += 1
   end
 
