@@ -14,6 +14,6 @@ def my_all?(collection)
     
   end
   
-  return_values
+  !return_values.include?(false)
 
 end
